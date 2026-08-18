@@ -90,8 +90,8 @@ const gamalYehia = {
 <!-- SPOTIFY NOW PLAYING (VIBES) -->
 <div align="center">
   <h3>🎵 Soundwaves & Coding Vibes</h3>
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-spotify-github-profile.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31slo7dlv3h4xont27bxisvf72rm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31slo7dlv3h4xont27bxisvf72rm&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
   </a>
 </div>
 
